@@ -1,0 +1,6 @@
+DJANGO COMMANDS:
+super user: johnlyster
+email: navalcommander8@gmail.com
+password: *
+py manage.py makemigrations
+py manage.py migrate
