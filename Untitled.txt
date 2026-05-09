@@ -2,5 +2,17 @@ DJANGO COMMANDS:
 super user: johnlyster
 email: navalcommander8@gmail.com
 password: *
+
+django-admin startproject (projectname)
+py manage.py startapp (appname)
+then add in settings.py installed apps
 py manage.py makemigrations
 py manage.py migrate
+
+
+NPM:
+npm create vite@latest frontend -- --template react 
+
+npm install axios react-router-dom jwt-decode 
+
+npm run dev
