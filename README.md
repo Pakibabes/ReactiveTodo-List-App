@@ -7,3 +7,6 @@ Imagine you and a friend are both looking at the same to-do board. In a normal a
 Most to-do apps in portfolios are single-user — you log in, you see your tasks, that's it. Reactive To-Do List has shared workspaces, meaning multiple people can work on the same board. This brings in real engineering challenges like: whose change wins if two people edit at the same time? How do you make sure only authorized users can see a board? These are the kinds of problems real companies solve every day.
 3. The tech stack itself tells a story
 Using React + Django + MySQL together isn't just "three random technologies." It shows you understand the full picture of how a modern web app is structured — a smart, component-based frontend talking to a robust, secure backend connected to a reliable relational database. Adding WebSockets on top of that signals you went beyond the tutorial and solved a real engineering problem.
+
+
+Technology Used: Git/GitHub, VSCode, React + Vite, Tailwind CSS, and Django
